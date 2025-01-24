@@ -5,7 +5,7 @@
 * STLデータ
 
 ## 外観
-![rev01](/akizuki_c_board_bottomcover.jpg)  
+![rev01](/akizuki_c_board_bottomcover1.jpg)  
 
 ## 使用例
 ![rev01](/akizuki_c_board_bottomcover2.jpg)  

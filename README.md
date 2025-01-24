@@ -1,0 +1,2 @@
+# Akizuki_C_Board_BottomCover
+秋月電子B基板サイズのボトムカバー
